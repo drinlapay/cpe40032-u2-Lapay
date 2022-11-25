@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.2251; Version 2009; 64bit' Language: 'en' Physical Memory: 4004 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\CET REVIEWER\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+D:/CET REVIEWER/Prototype 2 Animal
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+49198
+Successfully changed project path to: D:/CET REVIEWER/Prototype 2 Animal
+D:/CET REVIEWER/Prototype 2 Animal
+Using Asset Import Pipeline V2.
